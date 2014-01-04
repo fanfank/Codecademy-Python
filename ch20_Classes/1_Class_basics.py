@@ -1,2 +1,0 @@
-class Car(object):
-    pass

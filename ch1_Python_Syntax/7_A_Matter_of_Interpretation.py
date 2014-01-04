@@ -1,2 +1,0 @@
-spam = True
-eggs = False
